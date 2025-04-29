@@ -69,5 +69,5 @@ Open `config.lua` to adjust settings like:
 
 ## ✨ Credits
 
-- Developed by **SiiK**.
+- Developed by **SiiK**. MrH
 - Inspired by realistic Fire Department dispatch systems.
